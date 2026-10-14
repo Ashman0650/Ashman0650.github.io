@@ -5,7 +5,6 @@ The student grade calculator is a shell scripting project that allows users to a
 
 
 ## Installations
-
 Steps to install and run the project 
 
 ## usage
